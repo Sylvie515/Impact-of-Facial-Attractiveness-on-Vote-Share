@@ -1,0 +1,4 @@
+score_group,vote_share (mean),vote_share (std),ln_vote_share (mean),ln_vote_share (std),count
+below 74.99,0.5094,0.1983,-0.768,0.4653,115
+75-79.99,0.5389,0.1591,-0.6733,0.3653,47
+above 80,0.5574,0.1527,-0.623,0.289,27
