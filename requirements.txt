@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+dlib==19.24.6
+matplotlib==3.8.4
+numpy==1.26.4
+opencv_python==4.10.0
+pandas==2.2.2
+Pillow==11.0.0
+Requests==2.32.2
+seaborn==0.13.2
+stargazer==0.0.7
+statsmodels==0.14.2
