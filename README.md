@@ -1,7 +1,5 @@
 # The Impact of Facial Attractiveness on Candidates’ Vote Share: Case Study of U.S. House Elections
 
-This is the final project for DSCI 510.
-
 This project examines the influence of facial attractiveness on voting outcomes in California’s 2018 and 2020 U.S. House elections.  
 
 Please install all required librearies and read the following detailed instuctions about how to run this project.  
